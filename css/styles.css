@@ -173,6 +173,11 @@ address {
   line-height: inherit;
 }
 
+.launch {
+  color: white;
+  text-decoration: none;
+}
+
 ol,
 ul {
   padding-left: 2rem;
