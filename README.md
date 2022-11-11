@@ -12,6 +12,9 @@ A website that explains who I am, my skillset and showcases my work.
 ## Website
 https://iwmwargin.github.io/portfolio2022/
 
+## Issues
+Contact form isn't properly functioning.
+
 ## Contribution
 Made by Eric Wargin
 
